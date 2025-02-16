@@ -32,7 +32,7 @@
 
         base {
             bindings = <
-&kp Q        &kp W             &kp E         &kp R        &kp T  &kp Y        &kp U  &kp I      &kp O       &kp P                &studio_unlock
+&kp Q        &kp W             &kp E         &kp R        &kp T  &kp Y        &kp U  &kp I      &kp O       &kp P                &kp A
 &kp A        &kp S             &kp D         &kp F        &kp G  &kp H        &kp J  &kp K      &kp L       &bootloader
 &mt LS(Z) Z  &kp X             &kp C         &kp V        &kp B  &kp N        &kp M  &kp COMMA  &kp PERIOD  &mt RS(SLASH) SLASH
 &trans       &kp LEFT_CONTROL  &kp LEFT_ALT  &lt 1 SPACE         &lt 2 ENTER         &mo 1      &to 2       &trans
